@@ -1,6 +1,6 @@
 ---
 dependencies:
-  - src: https://github.com/cisagov/ansible-role-docker
+  - src: https://github.com/sei-dspooner/ansible-role-docker,amazon-linux
     name: docker
 galaxy_info:
   author: David Redmin
