@@ -1,7 +1,8 @@
 ---
 dependencies:
-  - src: https://github.com/sei-dspooner/ansible-role-docker,amazon-linux
+  - src: https://github.com/sei-dspooner/ansible-role-docker
     name: docker
+    version: amazon-linux
 galaxy_info:
   author: David Redmin
   company: CISA Cyber Assessments
